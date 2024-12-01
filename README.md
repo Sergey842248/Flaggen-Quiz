@@ -11,5 +11,6 @@ How to use:
 Issues:
 If you are facing any Issues or have any idea/suggestions please provide them in the Issues section.
 
+Feel free to mod the app.
 
 Thanks for your support.
